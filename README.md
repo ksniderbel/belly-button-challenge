@@ -9,4 +9,4 @@ We wrote this inside of a function so every selection triggers the same response
 
 Finally, this will be published at https://ksniderbel.github.io/site/.
 
-This work was done with other students:  Haritha Koleti, Michelle Petras, and Carment Wiggens.
+This work was done with other students:  Haritha Koleti, Michelle Petras, and Carmen Wiggens, as well as help from Sheri Rosalia, TA.
